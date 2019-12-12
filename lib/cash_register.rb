@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class CashRegister
    attr_accessor :discount :value :items :last_transaction
    attr_reader :total
@@ -36,3 +37,7 @@ class CashRegister
       
       
       
+=======
+class Cash_Register
+   attr_accessor item ha
+>>>>>>> 2a0275f7a999aac203da1f52cb018785549d0b41
